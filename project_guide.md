@@ -5,6 +5,10 @@ This document serves as a structured cheat sheet and planning canvas for your AI
 
 ---
 
+## 0. Context  Description
+Describe your project of accurate as posible this will give ocntext to the rest of section to be clear for AI during the code creation.
+
+---
 ## 1. 🎯 Project Goals
 
 Clearly define the high-level objectives of your AI agent system.
